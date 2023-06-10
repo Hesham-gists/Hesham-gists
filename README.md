@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hesham Afifi
-- 👀 I’m interested in Frontend topics
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning NodeJs
 - 📫 Email me hesham.githubgists@gmail.com
 
